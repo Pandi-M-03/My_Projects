@@ -1,9 +1,8 @@
 # AI-Enabled-car-Parking-Using-OpenCV
 
+![Screenshot (169)](https://github.com/Pandi-M-03/AI-enabled-car-parking-using-open-CV/assets/82884717/5906f7fc-886a-45b6-a233-0a3432e677c3)
+![Screenshot (170)](https://github.com/Pandi-M-03/AI-enabled-car-parking-using-open-CV/assets/82884717/ba634cb3-20d2-48cd-9a8d-a2040d2a417f)
+![Screenshot (171)](https://github.com/Pandi-M-03/AI-enabled-car-parking-using-open-CV/assets/82884717/e24f3d23-ccb3-40e6-9ccd-8bc27e4c6f3e)
+![Screenshot (172)](https://github.com/Pandi-M-03/AI-enabled-car-parking-using-open-CV/assets/82884717/9cbc61ff-0ee0-4819-a062-d87841d13e14)
+![Screenshot (173)](https://github.com/Pandi-M-03/AI-enabled-car-parking-using-open-CV/assets/82884717/c58a8b34-081a-4496-8208-56c3ad15077c)
 
-SCREEN SHOTS
-![16 05 2023_14 20 23_REC](https://github.com/ItsDarker/AI-Enabled-car-Parking-Using-OpenCV/assets/94286973/c83815b2-2860-4afd-b71d-5a85d3b724e6)
-![16 05 2023_14 21 56_REC](https://github.com/ItsDarker/AI-Enabled-car-Parking-Using-OpenCV/assets/94286973/99f474b3-426b-4881-979c-f3fa863b56b3)
-![16 05 2023_14 21 31_REC](https://github.com/ItsDarker/AI-Enabled-car-Parking-Using-OpenCV/assets/94286973/8a340da0-de06-4ec4-8e9f-22db6afefa13)
-![16 05 2023_14 22 26_REC](https://github.com/ItsDarker/AI-Enabled-car-Parking-Using-OpenCV/assets/94286973/0d1d423c-5a84-4799-839e-1762ff4dded1)
-![16 05 2023_14 23 00_REC](https://github.com/ItsDarker/AI-Enabled-car-Parking-Using-OpenCV/assets/94286973/2520c6de-da55-42e8-8560-e1eb2451b25b)
